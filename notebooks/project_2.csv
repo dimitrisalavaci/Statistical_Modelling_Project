@@ -108,7 +108,7 @@ zero,empty_slots,free_bikes,latitude,longitude,distance,venue,address,city,revie
 0,0,0,55.863443,-4.254147,801,Evans Cycles,"19 Bath St, Glasgow, Glasgow City, G2 1HY",0,0,0
 0,0,0,55.855875,-4.239028,846,Philip Lang Cycles,"163 Gallowgate, Glasgow, Glasgow City, G1 5ED",0,0,0
 0,0,0,55.860406,-4.257524,0,Alston Bar & Beef,"79 Gordon St, Glasgow, Glasgow City, G1 3SQ",Glasgow City,0,0
-0,0,0,55.850907,-4.233765,0,"WEST Brewery, Bar & Restaurant","Templeton Building, Glasgow Green (1 The Green), Glasgow, Glasgow City, G40 1AW",Glasgow City,0,0
+0,0,0,55.850907,-4.233765,0,"WEST Brewery, Bar & Restaurant","Templeton Building, Glasgow Green, Glasgow, Glasgow City, G40 1AW",Glasgow City,0,0
 0,0,0,55.859601,-4.252244,0,Tempo Tea Bar,"83 Queen St, Glasgow, Glasgow City, G1 3DA",Glasgow City,0,0
 0,0,0,55.860611,-4.255778,0,Riverhill Coffee Bar,"24 Gordon St, Glasgow, Glasgow City, G1 3PU",Glasgow City,0,0
 0,0,0,55.859437,-4.252344,0,Max's Bar and Grill,"73 Queen St, Glasgow, Glasgow City, G1 3BZ",Glasgow City,0,0
@@ -117,14 +117,14 @@ zero,empty_slots,free_bikes,latitude,longitude,distance,venue,address,city,revie
 0,0,0,55.864974,-4.264251,0,Tiki Bar & Kitsch Inn,"214 Bath St, Glasgow, Glasgow City, G2 4HW",Glasgow City,0,0
 0,0,0,55.86363,-4.26011,0,Meat Bar,"142 West Regent St, Glasgow, G2 2RQ",0,0,0
 0,0,0,55.864532,-4.25814,0,Malone's Irish Bar,"57-59 Sauchiehall Lane, Glasgow, Glasgow City, G2 4AB",Glasgow City,0,0
-0,0,0,55.8635606,-4.2540078,413.7465536,Evans Cycles,"['19 Bath Street', 'Glasgow G2 1HY', 'United Kingdom']",Glasgow,5,3
-0,0,0,55.864237,-4.251806,555.6765868,Nextbike,"['Glasgow', 'United Kingdom']",Glasgow,7,4.5
-0,0,0,55.867715,-4.248342,997.0965474,Dales Cycles,"['150 Dobbies Loan', 'Glasgow G4 0JE', 'United Kingdom']",Glasgow,11,2.5
-0,0,0,55.85797,-4.250447,510.2197578,Sports Direct,"['28-32 Argyle Street', 'Glasgow G2 8AD', 'United Kingdom']",Glasgow,7,2.5
-0,0,0,55.854561,-4.246191,973.2630268,Billy Bilsland Cycles,"['176 Saltmarket', 'Glasgow G1 5LA', 'United Kingdom']",Glasgow,3,4.5
-0,0,0,55.867313,-4.24525,1114.812405,Tiso Glasgow Outdoor Experience,"['50 Couper Street', 'Glasgow G4 0DL', 'United Kingdom']",Glasgow,15,4.5
-0,0,0,55.864026,-4.27159,971.6471794,West Coast Harley Davidson,"['147-151 North St', 'Glasgow G3 7DA', 'United Kingdom']",Glasgow,8,2.5
-0,0,0,55.8634033,-4.2605878,384.226689,5th Blocker Skates,"['143 W Regent Street', 'Glasgow G2 2SG', 'United Kingdom']",Glasgow,3,5
+0,0,0,55.8635606,-4.2540078,413.7465536,Evans Cycles,"19 Bath Street, Glasgow G2 1HY, United Kingdom",Glasgow,5,3
+0,0,0,55.864237,-4.251806,555.6765868,Nextbike,"Glasgow, United Kingdom",Glasgow,7,4.5
+0,0,0,55.867715,-4.248342,997.0965474,Dales Cycles,"150 Dobbies Loan, Glasgow G4 0JE, United Kingdom",Glasgow,11,2.5
+0,0,0,55.85797,-4.250447,510.2197578,Sports Direct,"28-32 Argyle Street, Glasgow G2 8AD, United Kingdom",Glasgow,7,2.5
+0,0,0,55.854561,-4.246191,973.2630268,Billy Bilsland Cycles,"176 Saltmarket, Glasgow G1 5LA, United Kingdom",Glasgow,3,4.5
+0,0,0,55.867313,-4.24525,1114.812405,Tiso Glasgow Outdoor Experience,"50 Couper Street, Glasgow G4 0DL, United Kingdom",Glasgow,15,4.5
+0,0,0,55.864026,-4.27159,971.6471794,West Coast Harley Davidson,"147-151 North St, Glasgow G3 7DA, United Kingdom",Glasgow,8,2.5
+0,0,0,55.8634033,-4.2605878,384.226689,5th Blocker Skates,"143 W Regent Street, Glasgow G2 2SG, United Kingdom",Glasgow,3,5
 0,0,0,55.87491461,-4.293247454,0,Ubiquitous Chip,0,Glasgow,152,4.5
 0,0,0,55.86419597,-4.260933399,0,The Butterfly and the Pig,0,Glasgow,257,4.5
 0,0,0,55.8635876,-4.2578579,0,Rufus T Firefly,0,Glasgow,32,3.5
@@ -165,7 +165,7 @@ zero,empty_slots,free_bikes,latitude,longitude,distance,venue,address,city,revie
 0,0,0,55.8655116,-4.2837556,0,The Sisters,0,Glasgow,26,4.5
 0,0,0,55.86110718,-4.2579991,0,Stereo,0,Glasgow,99,4.5
 0,0,0,55.8748303,-4.292792481,0,Jinty McGuinty's,0,Glasgow,36,3.5
-0,0,0,55.8580469,-4.2442038,0,Café Gandolfi,0,Glasgow,67,4.5
+0,0,0,55.8580469,-4.2442038,0,Cafa Gandolfi,0,Glasgow,67,4.5
 0,0,0,55.8579061,-4.2447286,0,Blackfriars,0,Glasgow,59,4
 0,0,0,55.85747834,-4.256287365,0,Times Square,0,Glasgow,9,2.5
 0,0,0,55.8669128,-4.2597389,0,Jackson's Drink Mongers,0,Glasgow,14,4
